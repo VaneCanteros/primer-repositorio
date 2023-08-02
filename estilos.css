@@ -1,0 +1,22 @@
+
+
+body {
+   background-color: black;
+}
+
+.container {
+    padding: 50px;
+}
+
+h1 {
+    padding: 50px;
+    text-align: center;
+    color: bisque;
+}
+
+h2 {
+    padding: 20px;
+}
+footer {
+    padding: 40px;
+}
